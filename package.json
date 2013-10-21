@@ -1,0 +1,32 @@
+{
+  "name": "webrtc-data",
+  "version": "0.0.1",
+  "description": "A WebRTC abstraction layer that makes setting up data channels dead simple",
+  "main": "lib/webrtc-data.js",
+  "dependencies": {
+    "browserify": "~2.34.3",
+    "uglify-js": "~2.4.0",
+    "webrtcsupport": "~0.7.0",
+    "wildemitter": "0.0.5",
+    "rtcpeerconnection": "~1.1.0",
+    "mockconsole": "0.0.1"
+  },
+  "devDependencies": {
+      "jasmine-node": "1.x"
+    },
+  "scripts": {
+    "test": "jasmine-node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aaronmccall/webrtc-data.git"
+  },
+  "keywords": [
+    "webrtc", "peer-to-peer", "data-channels"
+  ],
+  "author": "Aaron McCall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronmccall/webrtc-data/issues"
+  }
+}
