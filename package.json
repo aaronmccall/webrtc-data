@@ -1,6 +1,6 @@
 {
   "name": "webrtc-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A WebRTC abstraction layer that makes setting up data channels dead simple",
   "main": "lib/webrtc-data.js",
   "dependencies": {
