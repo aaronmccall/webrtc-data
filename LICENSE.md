@@ -1,4 +1,5 @@
-Copyright (c) 2013 Aaron McCall, Henrik Joreteg
+Written by Aaron McCall (with heavy reuse of Henrik Joreteg's webrtc code)
+Copyright © 2013 by &yet, LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
